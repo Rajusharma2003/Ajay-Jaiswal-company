@@ -3713,6 +3713,7 @@ fieldset:disabled .btn {
   border: 1px solid transparent;
   border-radius: 0.25rem;
   transition: box-shadow 0.15s ease-in-out;
+  margin-left: 70px;
 }
 @media (prefers-reduced-motion: reduce) {
   .navbar-toggler {
